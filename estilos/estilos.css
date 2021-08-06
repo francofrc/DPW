@@ -2,6 +2,27 @@ body{
 	background: #EFEFEF;
 	width: 100%;
 }
+header{
+	background: #01020F;
+	color: white;
+	display: flex;
+}
+#header-logo{
+	width: 40%;
+}
+#h-img{
+	width: 50%;
+}
+#header-menu{
+	width: 45%;
+	display: flex;
+}
+.h-div{
+	width: 33%;
+	text-align: center;
+	padding-top: 35px;
+	font-family: cooper black;
+}
 p{
 	font-family: cooper black;
 }
