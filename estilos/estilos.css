@@ -73,7 +73,8 @@ div center a{
 #frontend{
 	background: #6177D8;
 	padding-left: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 50px;
+	padding-top: 20px;
 	margin-top: 10px;
 	display: flex;
 }
@@ -85,7 +86,8 @@ div center a{
 #backend{
 	padding-left: 10px;
 	background: #6177D8;
-	padding-bottom: 5px;
+	padding-top: 20px;
+	padding-bottom: 50px;
 	display: flex;
 }
 #api{
