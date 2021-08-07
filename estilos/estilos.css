@@ -257,7 +257,7 @@ footer div{
 	width: 33%;
 	text-align: center;
 }
-@media(max-width: 700px){
+@media(max-width: 800px){
 	#SQL{
 		display: block;
 	}
@@ -293,6 +293,22 @@ footer div{
 	}
 	#div-javascript{
 		width: 100%;
+	}
+	header{
+		display: block;
+	}
+	#header-logo{
+		width: 100%;
+	}
+	#h-img{
+		width: 50%;
+		margin: auto;
+	}
+	#header-menu{
+		width: 100%;
+	}
+	.h-div{
+		padding-top: 8px;
 	}
 }
 		
