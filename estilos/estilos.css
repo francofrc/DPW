@@ -257,7 +257,54 @@ footer div{
 	width: 33%;
 	text-align: center;
 }
-@media(max-width: 500px){
+/*Table*/
+@media (max-width: 800px) {
+	#SQL{
+		display: block;
+	}
+	#DBA{
+		width: 100%;
+	}
+	#no-SQL{
+		width: 100%;
+	}
+	#DB{
+		width: 100%;
+		padding-top: 5px;
+	}
+	#api-2{
+		display: block;
+		width: 100%;
+	}
+	#rest{
+		margin-left: 20px;
+	}
+	#titulo{
+		font-size: 1.5em;
+	}
+
+	#div-lenguajes{
+		display: block;
+	}
+	#grupo{
+		display: flex;
+	}
+	#grupo-javascript{
+		display: block;
+	}
+	#div-javascript{
+		width: 100%;
+	}
+	#h-img{
+		width: 50%;
+		margin: auto;
+	}
+	.h-div{
+		padding-top: 8px;
+	}
+}
+/*mobile*/
+@media (max-width: 500px) {
 	#SQL{
 		display: block;
 	}
@@ -309,6 +356,9 @@ footer div{
 	}
 	.h-div{
 		padding-top: 8px;
+	}
+	#grupo{
+		display: block;
 	}
 }
 		
